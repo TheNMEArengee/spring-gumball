@@ -7,6 +7,7 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 class GumballCommand {
 
+
     private String action ;
     private String message ;
     private String state ;
