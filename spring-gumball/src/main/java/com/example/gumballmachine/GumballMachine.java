@@ -17,6 +17,7 @@ public class GumballMachine {
 		state = noQuarterState ;
 	}
  
+ 
 	public void insertQuarter() {
 		state.insertQuarter();
 	}
